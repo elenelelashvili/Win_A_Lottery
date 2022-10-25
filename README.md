@@ -1,1 +1,1 @@
-[elene](https://elenelelashvili.github.io/NyumBook/3/index.html)
+https://elenelelashvili.github.io/NyumBook/3/index.html
